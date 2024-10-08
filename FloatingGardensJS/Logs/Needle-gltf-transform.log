@@ -1,0 +1,37 @@
+(node:15264) ExperimentalWarning: Import assertions are not a stable feature of the JavaScript language. Avoid relying on their current behavior and syntax as those might change in a future version of Node.js.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:15264) ExperimentalWarning: Importing JSON modules is an experimental feature and might change at any time
+info: Transforming glTF file: C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS/assets
+info: No "gltf" config found in needle.config.json. Using default config.
+info: No config found. Using default config.
+info: → Transform C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS/assets/SampleScene.glb
+> Resize texture to 1024x1024 (from 2048x2048)
+> Resize texture to 512x512 (from 2048x2048)
+> Resize texture to 256x256 (from 2048x2048)
+[NEEDLE_progressive] Skipping, unsupported texture type "image/exr at 1".
+info: → Compressing 2.2 MB: C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS\assets\image_0_0828c3e1-8c45-5f7b-b414-916975e066ee.glb
+info: ⇄ Writing to C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS\assets\image_0_0828c3e1-8c45-5f7b-b414-916975e066ee.glb
+info: ← Compressing done in 0.1 sec, 2.2 MB → 0.5 MB (GPU: 2.7 MB textures): image_0_0828c3e1-8c45-5f7b-b414-916975e066ee.glb at C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS\assets\image_0_0828c3e1-8c45-5f7b-b414-916975e066ee.glb
+info: → Compressing 0.2 MB: C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS\assets\image_1_0828c3e1-8c45-5f7b-b414-916975e066ee.glb
+info: ⇄ Writing to C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS\assets\image_1_0828c3e1-8c45-5f7b-b414-916975e066ee.glb
+info: ← Compressing done in 0.0 sec, 0.2 MB → 0.1 MB (GPU: 0.7 MB textures): image_1_0828c3e1-8c45-5f7b-b414-916975e066ee.glb at C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS\assets\image_1_0828c3e1-8c45-5f7b-b414-916975e066ee.glb
+info: → Compressing 0.1 MB: C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS\assets\image_2_0828c3e1-8c45-5f7b-b414-916975e066ee.glb
+info: ⇄ Writing to C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS\assets\image_2_0828c3e1-8c45-5f7b-b414-916975e066ee.glb
+info: ← Compressing done in 0.0 sec, 0.1 MB → 0.1 MB (GPU: 0.2 MB textures): image_2_0828c3e1-8c45-5f7b-b414-916975e066ee.glb at C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS\assets\image_2_0828c3e1-8c45-5f7b-b414-916975e066ee.glb
+info: → Compressing 0.0 MB: C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS\assets\image_3_0828c3e1-8c45-5f7b-b414-916975e066ee.glb
+info: ⇄ Writing to C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS\assets\image_3_0828c3e1-8c45-5f7b-b414-916975e066ee.glb
+info: ← Compressing done in 0.0 sec, 0.0 MB → 0.0 MB (GPU: 0.0 MB textures): image_3_0828c3e1-8c45-5f7b-b414-916975e066ee.glb at C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS\assets\image_3_0828c3e1-8c45-5f7b-b414-916975e066ee.glb
+info: → Loaded compressed file from cache: "mesh_lod_0_532591105809680800_68c6ee4decb290343b9c703b4943287d.glb"
+info: → Loaded compressed file from cache: "mesh_lod_1_532591105809680800_68c6ee4decb290343b9c703b4943287d.glb"
+info: → Loaded compressed file from cache: "mesh_lod_2_532591105809680800_68c6ee4decb290343b9c703b4943287d.glb"
+info: → Loaded compressed file from cache: "mesh_lod_3_532591105809680800_68c6ee4decb290343b9c703b4943287d.glb"
+info: → Loaded compressed file from cache: "mesh_lod_4_532591105809680800_68c6ee4decb290343b9c703b4943287d.glb"
+info: → Loaded compressed file from cache: "mesh_lod_5_532591105809680800_68c6ee4decb290343b9c703b4943287d.glb"
+info: → Compressing 0.5 MB: C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS/assets/SampleScene.glb
+Missing optional extension, "NEEDLE_progressive_mesh_settings".
+WARN: Could not validate image type for "image/exr"
+info: ⇄ Writing to C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS/assets/SampleScene.glb
+info: ← Compressing done in 0.1 sec, 0.5 MB → 0.1 MB (GPU: 0.0 MB textures): SampleScene.glb at C:\Users\steve\Documents\GitHub\ArtefactOmnia\FloatingGardensJS\Needle\FloatingGardensJS/assets/SampleScene.glb
+info: [Needle Build Pipeline] v2.4.0 — Finished compression "default" of 5 files in 0.1 minutes; total size 2.9 MB → 0.8 MB, total GPU memory: 3.6 MB
+Limit cache size to 1024.00 MB at C:\Users\steve\AppData\Local\Temp\Needle\build-pipeline-cache...
+Current cache size is 53.4 MB
